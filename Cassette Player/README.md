@@ -1,4 +1,6 @@
  cassette player
+
+ view it: https://f3d.to/v/DxKQMe
 ![IMG_0188](https://github.com/user-attachments/assets/3d0f103e-070f-4822-8c99-eeda4e3d3adc)
 
 
